@@ -1,0 +1,10 @@
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/step-22-1.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/runclean.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/sign.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/strip_comments.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/run.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/info.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/debug.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/distclean.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/help.dir
+/Users/Kevin/Desktop/Deal/3d cartesian/CMakeFiles/release.dir
