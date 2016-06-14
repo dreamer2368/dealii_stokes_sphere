@@ -1,10 +1,10 @@
 MESSAGE(
 "###
 #
-#  Project  step-22-1  set up with  deal.II-8.1.0  found at
+#  Project  step-22-2  set up with  deal.II-8.1.0  found at
 #      /usr/local/deal.II
 #
-#  CMAKE_BUILD_TYPE:          Debug
+#  CMAKE_BUILD_TYPE:          Release
 #
 #  You can now run
 #       $ make                - to compile and link the program

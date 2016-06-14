@@ -3,7 +3,7 @@
 ##
 
 # Set the name of the project and target:
-SET(TARGET "step-22-1")
+SET(TARGET "step-22-2")
 
 # Declare all source files the target consists of:
 SET(TARGET_SRC
